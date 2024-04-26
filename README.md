@@ -4,7 +4,8 @@ Hi 👋 My name is Vladimir Esionov
 Frontend Developer and programming teacher
 ------------------------------------------
 
-My development experience is more than 8 years, teaching experience is more than 6 years. I like to constantly learn new things and share my knowledge.
+My development experience is more than 8 years, teaching experience is more than 6 years. 
+I like to constantly learn new things and share my knowledge.
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [nolraprof@gmail.com](mailto:nolraprof@gmail.com)
